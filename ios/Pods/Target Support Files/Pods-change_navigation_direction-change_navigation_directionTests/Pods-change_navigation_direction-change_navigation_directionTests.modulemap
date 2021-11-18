@@ -1,0 +1,6 @@
+module Pods_change_navigation_direction_change_navigation_directionTests {
+  umbrella header "Pods-change_navigation_direction-change_navigation_directionTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

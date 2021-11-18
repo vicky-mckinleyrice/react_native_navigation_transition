@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_change_navigation_direction_change_navigation_directionTests : NSObject
+@end
+@implementation PodsDummy_Pods_change_navigation_direction_change_navigation_directionTests
+@end
